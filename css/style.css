@@ -4079,3 +4079,10 @@ img.sw {
 		justify-content: center
 	}
 }
+
+@media (min-width: 640px) {
+	.client__logos img {
+		width: 150px;
+		max-width: 100%;
+	}
+}
