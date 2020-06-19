@@ -734,13 +734,13 @@ strong {
 @media (min-width: 641px) {
 	h1,
 	.i {
-		font-size: 44px;
-		line-height: 54px
+		font-size: 38px;
+    	line-height: 50px;
 	}
 	h2,
 	.s {
-		font-size: 38px;
-		line-height: 48px
+		font-size: 36px;
+		line-height: 46px
 	}
 	h3,
 	.o {
