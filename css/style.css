@@ -4093,6 +4093,7 @@ img.sw {
 	border: solid 10px #eee;
 	border-radius: 20px;
 	display: block;
+	margin: 0 auto;
 }
 
 @media (max-width: 414px) {
