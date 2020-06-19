@@ -4086,3 +4086,12 @@ img.sw {
 		max-width: 100%;
 	}
 }
+
+.device video {
+	width: 200px;
+	max-width: 100%;
+	border: solid 10px #eee;
+	border-radius: 20px;
+	display: block;
+	margin: 0 auto;
+}
