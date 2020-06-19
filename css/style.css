@@ -436,7 +436,7 @@ h6,
 	font-family: "IBM Plex Sans", sans-serif;
 	font-weight: 600;
 	clear: both;
-	color: #1957CB;
+	color: #203a97;
 	word-wrap: break-word;
 	overflow-wrap: break-word
 }
@@ -4087,11 +4087,35 @@ img.sw {
 	}
 }
 
+@media (max-width: 414px) {
+	body {
+		font-size: 16px;
+	}
+	
+	h1, .i {
+		font-size: 26px;
+		line-height: 1.4;
+	}
+
+	h2, .s {
+		font-size: 24px;
+		line-height: 1.4;
+	}
+
+	.device video {
+		width: 260px;
+		margin-top: 35px;
+	}
+
+	footer {
+		padding-bottom: 80px;
+	}
+}
+
 .device video {
 	width: 200px;
 	max-width: 100%;
 	border: solid 10px #eee;
 	border-radius: 20px;
 	display: block;
-	margin: 15px auto;
 }
