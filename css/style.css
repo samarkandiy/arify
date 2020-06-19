@@ -436,7 +436,7 @@ h6,
 	font-family: "IBM Plex Sans", sans-serif;
 	font-weight: 600;
 	clear: both;
-	color: #2B2B52;
+	color: #1957CB;
 	word-wrap: break-word;
 	overflow-wrap: break-word
 }
@@ -500,7 +500,7 @@ figcaption {
 }
 
 a:not(.tbuttonn) {
-	color: #0f0b80;
+	color: #1957CB;
 	text-decoration: underline
 }
 
@@ -801,7 +801,7 @@ strong {
 	height: 48px;
 	text-decoration: none !important;
 	text-transform: uppercase;
-	color: #2B2B52;
+	color: #1957CB;
 	background-color: #fff;
 	border-width: 1px;
 	border-style: solid;
@@ -839,7 +839,7 @@ strong {
 	margin-top: -11px;
 	top: 50%;
 	left: 50%;
-	border: 2px solid #2B2B52;
+	border: 2px solid #1957CB;
 	border-radius: 50%;
 	border-right-color: transparent !important;
 	border-top-color: transparent !important;
@@ -865,7 +865,7 @@ strong {
 
 .ubuttona {
 	color: #fff;
-	background-color: #2B2B52
+	background-color: #1957CB
 }
 
 .ubuttona:hover {
@@ -878,7 +878,7 @@ strong {
 
 .fbuttonl {
 	color: #fff;
-	background-color: #0f0b80
+	background-color: #1957CB
 }
 
 .fbuttonl:hover {
@@ -999,7 +999,7 @@ fieldset {
 .z input:active,
 .z input:focus {
 	outline: none;
-	border-color: #0f0b80
+	border-color: #1957CB
 }
 
 ._[disabled],
@@ -1178,8 +1178,8 @@ textarea._ {
 
 .q input:checked,
 .z input:checked {
-	background-color: #0f0b80 !important;
-	border-color: #0f0b80 !important;
+	background-color: #1957CB !important;
+	border-color: #1957CB !important;
 	background-position: 50%
 }
 
@@ -1241,7 +1241,7 @@ textarea._ {
 }
 
 .x input:checked+.tu {
-	background: #0f0b80
+	background: #1957CB
 }
 
 .x input:checked+.tu::before {
@@ -1278,7 +1278,7 @@ textarea._ {
 .k input[type=range]::-webkit-slider-thumb {
 	appearance: none;
 	-webkit-appearance: none;
-	background-color: #0f0b80;
+	background-color: #1957CB;
 	background-image: url("data:image/svg+xml;charset=US-ASCII,%3Csvg%20width%3D%2212%22%20height%3D%228%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%3Cpath%20d%3D%22M8%20.5v7L12%204zM0%204l4%203.5v-7z%22%20fill%3D%22%23fff%22%20fill-rule%3D%22nonzero%22%2F%3E%3C%2Fsvg%3E");
 	background-position: center;
 	background-repeat: no-repeat;
@@ -1290,7 +1290,7 @@ textarea._ {
 }
 
 .k input[type=range]::-moz-range-thumb {
-	background-color: #0f0b80;
+	background-color: #1957CB;
 	background-image: url("data:image/svg+xml;charset=US-ASCII,%3Csvg%20width%3D%2212%22%20height%3D%228%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%3Cpath%20d%3D%22M8%20.5v7L12%204zM0%204l4%203.5v-7z%22%20fill%3D%22%23fff%22%20fill-rule%3D%22nonzero%22%2F%3E%3C%2Fsvg%3E");
 	background-position: center;
 	background-repeat: no-repeat;
@@ -1303,7 +1303,7 @@ textarea._ {
 }
 
 .k input[type=range]::-ms-thumb {
-	background-color: #0f0b80;
+	background-color: #1957CB;
 	background-image: url("data:image/svg+xml;charset=US-ASCII,%3Csvg%20width%3D%2212%22%20height%3D%228%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%3Cpath%20d%3D%22M8%20.5v7L12%204zM0%204l4%203.5v-7z%22%20fill%3D%22%23fff%22%20fill-rule%3D%22nonzero%22%2F%3E%3C%2Fsvg%3E");
 	background-position: center;
 	background-repeat: no-repeat;
@@ -1425,7 +1425,7 @@ textarea._ {
 	width: 24px;
 	height: 2px;
 	position: absolute;
-	background: #2B2B52;
+	background: #1957CB;
 	border-radius: 2px
 }
 
@@ -1579,7 +1579,7 @@ textarea._ {
 .tb::after {
 	content: '';
 	position: absolute;
-	background: #0f0b80;
+	background: #1957CB;
 	border-radius: 2px;
 	transition: transform .25s ease-out
 }
@@ -1820,7 +1820,7 @@ textarea._ {
 }
 
 .ne.ty::before {
-	background: #0f0b80
+	background: #1957CB
 }
 
 .ne:hover::before {
@@ -1832,7 +1832,7 @@ textarea._ {
 }
 
 .r .ne.ty::before {
-	background: #0f0b80
+	background: #1957CB
 }
 
 .r .ne:hover::before {
@@ -1882,8 +1882,8 @@ textarea._ {
 }
 
 .nn.ty {
-	color: #0f0b80;
-	border-bottom-color: #0f0b80
+	color: #1957CB;
+	border-bottom-color: #1957CB
 }
 
 .nr {
@@ -1962,7 +1962,7 @@ textarea._ {
 	width: 8px;
 	height: 8px;
 	border-radius: 50%;
-	background: #0f0b80
+	background: #1957CB
 }
 
 .r .nu::before {
@@ -2229,7 +2229,7 @@ textarea._ {
 
 .nj a:not(.tbuttonn):hover,
 .nj a:not(.tbuttonn):active {
-	color: #2B2B52
+	color: #1957CB
 }
 
 .r .nj a:not(.tbuttonn) {
@@ -2462,7 +2462,7 @@ textarea._ {
 }
 
 .rl a svg {
-	fill: #0f0b80;
+	fill: #1957CB;
 	transition: fill .15s ease
 }
 
@@ -3276,7 +3276,7 @@ ul.rj li {
 
 @media (max-width: 640px) {
 	.nj .tbuttonn {
-		color: #2B2B52;
+		color: #1957CB;
 		background-color: #fff;
 		border-color: rgba(0, 0, 0, 0)
 	}
@@ -3317,7 +3317,7 @@ ul.rj li {
 	background-size: 100%;
 	border-radius: 50%;
 	background-color: #6448FB;
-	background-image: url(data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iNzIiIGhlaWdodD0iNzIiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PGRlZnM+PGxpbmVhckdyYWRpZW50IHgxPSI1MCUiIHkxPSIxMDAlIiB4Mj0iNTAlIiB5Mj0iMCUiIGlkPSJhIj48c3RvcCBzdG9wLWNvbG9yPSIjRkY4OEU0IiBzdG9wLW9wYWNpdHk9Ii40OCIgb2Zmc2V0PSIwJSIvPjxzdG9wIHN0b3AtY29sb3I9IiNGRjg4RTQiIHN0b3Atb3BhY2l0eT0iMCIgb2Zmc2V0PSIxMDAlIi8+PC9saW5lYXJHcmFkaWVudD48L2RlZnM+PHBhdGggZD0iTTU0IDkwYzE5Ljg4MiAwIDM2LTE2LjExOCAzNi0zNlM3My44ODIgMTggNTQgMThzMTEgMTYtMzYgMzYgMTYuMTE4IDM2IDM2IDM2eiIgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoLTQpIiBmaWxsPSJ1cmwoI2EpIiBmaWxsLXJ1bGU9ImV2ZW5vZGQiLz48L3N2Zz4=), linear-gradient(#0f0b80, #6448FB)
+	background-image: url(data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iNzIiIGhlaWdodD0iNzIiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PGRlZnM+PGxpbmVhckdyYWRpZW50IHgxPSI1MCUiIHkxPSIxMDAlIiB4Mj0iNTAlIiB5Mj0iMCUiIGlkPSJhIj48c3RvcCBzdG9wLWNvbG9yPSIjRkY4OEU0IiBzdG9wLW9wYWNpdHk9Ii40OCIgb2Zmc2V0PSIwJSIvPjxzdG9wIHN0b3AtY29sb3I9IiNGRjg4RTQiIHN0b3Atb3BhY2l0eT0iMCIgb2Zmc2V0PSIxMDAlIi8+PC9saW5lYXJHcmFkaWVudD48L2RlZnM+PHBhdGggZD0iTTU0IDkwYzE5Ljg4MiAwIDM2LTE2LjExOCAzNi0zNlM3My44ODIgMTggNTQgMThzMTEgMTYtMzYgMzYgMTYuMTE4IDM2IDM2IDM2eiIgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoLTQpIiBmaWxsPSJ1cmwoI2EpIiBmaWxsLXJ1bGU9ImV2ZW5vZGQiLz48L3N2Zz4=), linear-gradient(#1957CB, #6448FB)
 }
 
 .rk.ib {
@@ -3333,7 +3333,7 @@ ul.rj li {
 	left: 0%;
 	width: 100%;
 	height: calc(100% - 160px);
-	background: #2B2B52;
+	background: #1957CB;
 	z-index: -3
 }
 
@@ -3464,7 +3464,7 @@ ul.rj li.ix::after {
 }
 
 .iz a {
-	color: #2B2B52 !important;
+	color: #1957CB !important;
 	text-decoration: none
 }
 
@@ -3473,12 +3473,12 @@ ul.rj li.ix::after {
 }
 
 .ip a {
-	color: #2B2B52;
+	color: #1957CB;
 	text-decoration: none
 }
 
 .ip a:hover {
-	color: #0f0b80
+	color: #1957CB
 }
 
 .se {
@@ -3530,7 +3530,7 @@ ul.rj li.ix::after {
 }
 
 .sf {
-	color: #2B2B52
+	color: #1957CB
 }
 
 .sl {
@@ -3542,7 +3542,7 @@ ul.rj li.ix::after {
 }
 
 .sh {
-	color: #0f0b80
+	color: #1957CB
 }
 
 .sp {
@@ -3591,7 +3591,7 @@ ul.rj li.ix::after {
 
 .ib {
 	position: relative;
-	background-color: #2B2B52;
+	background-color: #1957CB;
 	z-index: 0
 }
 
