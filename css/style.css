@@ -4131,4 +4131,8 @@ img.sw {
 	footer {
 		padding-bottom: 80px;
 	}
+
+	#demo img {
+		margin-top: 25px;
+	}
 }
