@@ -4100,12 +4100,15 @@ img.sw {
 }
 
 .device video {
-	width: 200px;
-	max-width: 100%;
-	border: solid 10px #eee;
-	border-radius: 20px;
-	display: block;
-	margin: 0 auto;
+	width: 260px;
+        max-width: 100%;
+        border: solid 10px #eee;
+        border-radius: 20px;
+        display: block;
+        padding-top: 30px;
+        padding-bottom: 30px;
+        margin: 0 auto;
+        background: #eee;
 }
 
 @media (max-width: 414px) {
